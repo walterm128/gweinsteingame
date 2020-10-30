@@ -1,0 +1,16 @@
+TEXTURAS NASA
+MODEL 3D Einstein: https://grabcad.com/library/printable-albert-einstein-bust-1
+MODEL 3D Nave: creo que no solo se va a diseñar un HUD estilo serie cosmos
+
+SKYBOX
+https://assetstore.unity.com/packages/2d/textures-materials/sky/galaxybox-1-0-18289
+https://assetstore.unity.com/packages/2d/textures-materials/sky/galaxybox-2-0-84349
+
+OTROS
+https://github.com/joeythelantern/AsteroidBeltExample
+https://free3d.com/3d-model/-asteroid--962525.html
+
+Sound
+https://assetstore.unity.com/packages/audio/sound-fx/transportation/abstract-spaceships-free-sample-pack-144353
+
+Standard Assets Free: Unity Store
