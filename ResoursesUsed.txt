@@ -1,3 +1,8 @@
+TOOLS:
+Freecad
+Blender
+Unity3D Personal Edition
+
 TEXTURAS NASA
 MODEL 3D Einstein: https://grabcad.com/library/printable-albert-einstein-bust-1
 MODEL 3D Nave: creo que no solo se va a diseñar un HUD estilo serie cosmos
