@@ -23,3 +23,6 @@ Standard Assets Free: Unity Store
 Saturn Shader Transparent Rings: UnityGalaxy-master
 
 Libreoffice
+
+VSCode
+Visual Studio 2019
